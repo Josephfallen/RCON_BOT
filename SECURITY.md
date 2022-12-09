@@ -23,7 +23,7 @@ Current Ubuntu Versions
 | 3.10    | :white_check_mark: |
 | 3.9     | :white_check_mark: |
 | 3.8     | :white_check_mark: |
-| > 3.8   | :white_check_mark: |
+| > 3.8   | :x: |
 
 ## Reporting a Vulnerability
 
