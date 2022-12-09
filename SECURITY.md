@@ -2,15 +2,28 @@
 
 ## Supported Versions
 
-Use this section to tell people about which versions of your project are
-currently being supported with security updates.
+Current UE versions that are supported map and securtity wise
 
 | Version | Supported          |
 | ------- | ------------------ |
-| 5.1.x   | :white_check_mark: |
+| 5.1     | :white_check_mark: |
 | 5.0.x   | :x:                |
-| 4.0.x   | :white_check_mark: |
-| < 4.0   | :x:                |
+| 4.27    | :white_check_mark: |
+| 4.21    | :white_check_mark: |
+
+
+
+
+
+
+Current Ubuntu Versions
+
+| Version | Supported          |
+| ------- | ------------------ |
+| 3.10    | :white_check_mark: |
+| 3.9     | :white_check_mark: |
+| 3.8     | :white_check_mark: |
+| > 3.8   | :white_check_mark: |
 
 ## Reporting a Vulnerability
 
