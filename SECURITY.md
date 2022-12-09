@@ -6,8 +6,8 @@ Current UE versions that are supported map and securtity wise
 
 | Version | Supported          |
 | ------- | ------------------ |
+| < 5.1   | :x:                |
 | 5.1     | :white_check_mark: |
-| 5.0.x   | :x:                |
 | 4.27    | :white_check_mark: |
 | 4.21    | :white_check_mark: |
 
