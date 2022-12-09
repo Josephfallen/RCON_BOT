@@ -16,7 +16,7 @@ handler.setFormatter(formatter)
 logger.addHandler(handler)
 logger.setLevel(logging.INFO)
 
-__version__ = "Watching over Pav-RP"
+__version__ = "Watching over Pav-RP v1.18"
 
 invite_link = "https://discordapp.com/api/oauth2/authorize?client_id={}&scope=bot&permissions=8192"
 
