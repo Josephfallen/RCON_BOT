@@ -1,4 +1,4 @@
-[![APIsec](https://github.com/Josephfallen/RCON_BOT/actions/workflows/apisec-scan.yml/badge.svg)](https://github.com/Josephfallen/RCON_BOT/actions/workflows/apisec-scan.yml)
+[![Dependency Review](https://github.com/Josephfallen/RCON_BOT/actions/workflows/dependency-review.yml/badge.svg)](https://github.com/Josephfallen/RCON_BOT/actions/workflows/dependency-review.yml)[![APIsec](https://github.com/Josephfallen/RCON_BOT/actions/workflows/apisec-scan.yml/badge.svg)](https://github.com/Josephfallen/RCON_BOT/actions/workflows/apisec-scan.yml)
 
 
 # Pavlov RCON bot
