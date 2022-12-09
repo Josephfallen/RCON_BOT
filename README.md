@@ -1,4 +1,7 @@
-# pavlov-bot
+[![APIsec](https://github.com/Josephfallen/RCON_BOT/actions/workflows/apisec-scan.yml/badge.svg)](https://github.com/Josephfallen/RCON_BOT/actions/workflows/apisec-scan.yml)
+
+
+# Pavlov RCON bot
 Discord bot to inferface with Pavlov VR RCON
 
 
