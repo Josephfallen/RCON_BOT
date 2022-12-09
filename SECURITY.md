@@ -16,7 +16,7 @@ Current UE versions that are supported map and securtity wise
 
 
 
-Current Ubuntu Versions
+Current Python Versions
 
 | Version | Supported          |
 | ------- | ------------------ |
@@ -24,6 +24,15 @@ Current Ubuntu Versions
 | 3.9     | :white_check_mark: |
 | 3.8     | :white_check_mark: |
 | > 3.8   | :x: |
+
+## Ubuntu versions
+
+| Version | Supported          |
+| ------- | ------------------ |
+| 22.04   | :white_check_mark: |
+| 21.10   | :white_check_mark: |
+| 20.10   | :white_check_mark: |
+| > 20.10 | :x: |
 
 ## Reporting a Vulnerability
 
