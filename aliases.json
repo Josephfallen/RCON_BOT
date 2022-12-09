@@ -1,15 +1,12 @@
 {
   "maps": {
-    "cache": "UGC1695916905",
-    "dust": "UGC1664873782",
-    "Quest_items": "SVR_Cheeto_Items"
+    "Pav-RP": "SVR_roobes_LucidTest"
       },
   "players": {
-    "PCplayer1": 765611465797498572,
-    "Questplayer2": "Questplayer2"
+    "Joseph": "Joseph_fallen",
+	"Roobes"; "roobes"
   },
   "teams": {
-    "PCteam1": [76568423451070460, 76568768421070460],
-    "Questteam2": ["Questplayer1", "Questplayer2"]
+    "Developers": ["Joseph_fallen", "roobes"]
   }
 }
