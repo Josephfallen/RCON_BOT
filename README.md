@@ -42,7 +42,7 @@ python3.8 --version
 ```
 
 ## Getting pavlov-bot code from github and creating config files
-*Log in as steam user (or whatever user will run bot. This assumes steam user used for pavlovserver as documented [here](http://wiki.pavlov-vr.com/index.php?title=Dedicated_server)) and run following commands*
+*Log in as steam user (or whatever user will run bot. This assumes steam user used for pavlovserver as documented [here](http://wiki.pavlov-vr.com/index.php?title=Dedicated_server)) and run following commands* 
 
 
 ```
