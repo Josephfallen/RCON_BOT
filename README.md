@@ -1,4 +1,4 @@
-[![Dependency Review](https://github.com/Josephfallen/RCON_BOT/actions/workflows/dependency-review.yml/badge.svg)](https://github.com/Josephfallen/RCON_BOT/actions/workflows/dependency-review.yml)         [![CodeQL](https://github.com/Josephfallen/RCON_BOT/actions/workflows/codeql.yml/badge.svg)](https://github.com/Josephfallen/RCON_BOT/actions/workflows/codeql.yml) [![Labeler](https://github.com/Josephfallen/RCON_BOT/actions/workflows/label.yml/badge.svg)](https://github.com/Josephfallen/RCON_BOT/actions/workflows/label.yml)     
+[![Dependency Review](https://github.com/Josephfallen/RCON_BOT/actions/workflows/dependency-review.yml/badge.svg)](https://github.com/Josephfallen/RCON_BOT/actions/workflows/dependency-review.yml)         [![CodeQL](https://github.com/Josephfallen/RCON_BOT/actions/workflows/codeql.yml/badge.svg)](https://github.com/Josephfallen/RCON_BOT/actions/workflows/codeql.yml)
 
 # Pavlov RCON bot
 Discord bot to inferface with Pavlov VR RCON
