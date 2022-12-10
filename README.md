@@ -5,7 +5,7 @@ Discord bot to inferface with Pavlov VR RCON
 
 
 # Setup
-*This setup guide assumes you are running Ubuntu 18.04 or later. Later versions may already have required python3.8 version. It also assumes you are running the bot on the same server running pavlovserver following setup guide found [here](http://wiki.pavlov-vr.com/index.php?title=Dedicated_server).*
+*This setup guide assumes you are running Ubuntu 20.10 or later. Later versions may already have required python3.8 version. It also assumes you are running the bot on the same server running pavlovserver following setup guide found [here](http://wiki.pavlov-vr.com/index.php?title=Dedicated_server).*
 
 ## Prerequisites
 - pip3    
