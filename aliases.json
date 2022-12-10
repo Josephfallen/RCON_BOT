@@ -3,8 +3,12 @@
     "Pav-RP": "SVR_roobes_LucidTest"
       },
   "players": {
-    "Joseph": "Joseph_fallen",
-	"Roobes"; "roobes"
+	"Joseph": "Joseph_fallen",
+	"Roobes"; "roobes",
+	"Alexander": "AlexanderHille",
+	"RockChalk": "RockChalkJayhawk96",
+	"Corporate":  "CorporateSync",
+	"DomesticYeti": "DomesticYeti"
   },
   "teams": {
     "Developers": ["Joseph_fallen", "roobes"]
