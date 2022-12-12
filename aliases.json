@@ -8,9 +8,12 @@
 	"Alexander": "AlexanderHille",
 	"RockChalk": "RockChalkJayhawk96",
 	"Corporate":  "CorporateSync",
-	"DomesticYeti": "DomesticYeti"
+	"DomesticYeti": "DomesticYeti",
+	"Drblaze": "Drblaze67",
+	"": ""
   },
   "teams": {
-    "Developers": ["Joseph_fallen", "roobes"]
+    "Developer": ["Joseph_fallen", "roobes"]
+	"The Shadows": [Drblaze67, RilesAllday906]
   }
 }
