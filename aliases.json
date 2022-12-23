@@ -10,10 +10,9 @@
 	"Corporate":  "CorporateSync",
 	"DomesticYeti": "DomesticYeti",
 	"Drblaze": "Drblaze67",
-	"": ""
+	"Adactyl": "Adactyl"
   },
   "teams": {
-    "Developer": ["Joseph_fallen", "roobes"]
-	"The Shadows": [Drblaze67, RilesAllday906]
+    "Developers": ["Joseph_fallen", "Adactyl"],
   }
 }
