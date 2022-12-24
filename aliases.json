@@ -13,7 +13,8 @@
 	"": ""
   },
   "teams": {
-    "Developer": ["Joseph_fallen", "roobes"]
-	"The Shadows": [Drblaze67, RilesAllday906]
+    "Developer": ["Joseph_fallen", "roobes"],
+    "The Shadows": [Drblaze67, RilesAllday906],
+    "Police": [Joseph]
   }
 }
