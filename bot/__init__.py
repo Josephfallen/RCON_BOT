@@ -16,9 +16,9 @@ handler.setFormatter(formatter)
 logger.addHandler(handler)
 logger.setLevel(logging.INFO)
 
-__version__ = "Running on PRAPI v1"
+__version__ = "Running on Pav-RP API v1"
 
-invite_link = "https://discordapp.com/api/oauth2/authorize?client_id={}&scope=bot&permissions=8192"
+invite_link = "https://discordapp.com/api/oauth2/authorize?client_id=1051966369341640724&scope=bot&permissions=8192"
 
 
 async def get_prefix(_bot, message):
