@@ -82,7 +82,7 @@ As root user run the following command
 
 ## Setup of pipenv for pavlov-bot
 login as steam user    
-`cd ~/pavlov-bot && pipenv install`
+`cd ~/RCON_BOT && pipenv install`
 
 ## Test startup of bot
 As steam user run the following command    
@@ -99,7 +99,7 @@ Description=Pavlov-bot
 
 [Service]
 Type=simple
-WorkingDirectory=/home/steam/pavlov-bot
+WorkingDirectory=/home/steam/RCON_BOT
 ExecStart=/usr/local/bin/pipenv run python3.8 run.py
 RestartSec=1
 Restart=always
