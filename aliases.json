@@ -4,7 +4,7 @@
       },
   "players": {
 	"Joseph": "Joseph_fallen",
-	"Roobes"; "roobes",
+	"Roobes": "roobes",
 	"Alexander": "AlexanderHille",
 	"RockChalk": "RockChalkJayhawk96",
 	"Corporate":  "CorporateSync",
@@ -13,8 +13,6 @@
 	"": ""
   },
   "teams": {
-    "Developer": ["Joseph_fallen", "roobes"],
-    "The Shadows": [Drblaze67, RilesAllday906],
-    "Police": [Joseph]
+    "Developer": ["Joseph_fallen", "roobes"]
   }
 }
