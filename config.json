@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 {"prefix": "!", "token": "replacemewithdiscordtoken", "default_server": "default"}
+=======
+{"prefix": "!", "token": "replacemewithdiscordtoken", "default_server": "none"}
+>>>>>>> Stashed changes
