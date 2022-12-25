@@ -48,7 +48,7 @@ python3.8 --version
 ```
 su - steam 
 
-cd ~ && git clone https://github.com/makupi/pavlov-bot
+cd ~ && git clone https://github.com/Josephfallen/RCON_BOT
 ```
 Copy file config.json.default file from Examples directory to `/home/steam/pavlov-bot/config.json` with following single line:
 ```json
