@@ -130,7 +130,7 @@ pavlov-bot is in active developement and new features will need to be checked ou
 
 To update from master as steam user:
 
-``cd /home/steam/pavlov-bot`` (or wherever you have installed)
+``cd /home/steam/RCON_BOT`` (or wherever you have installed)
 
 ``git pull``
 
