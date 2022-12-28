@@ -1,18 +1,10 @@
 {
   "maps": {
-    "Pav-RP": "SVR_roobes_LucidTest"
+    "Prison": "SVR_roobes_LucidTest"
       },
   "players": {
 	"Joseph": "Joseph_fallen",
-	"Roobes": "roobes",
-	"Alexander": "AlexanderHille",
-	"RockChalk": "RockChalkJayhawk96",
-	"Corporate":  "CorporateSync",
-	"DomesticYeti": "DomesticYeti",
 	"Drblaze": "Drblaze67",
 	"Adactyl": "Adactyl"
-  },
-  "teams": {
-    "Developers": ["Joseph_fallen", "Adactyl"],
   }
 }
