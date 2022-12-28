@@ -9,11 +9,14 @@ Discord bot to inferface with Pavlov VR RCON
 
 ## Prerequisites
 - pip3    
-- python3.8    
+- aiohttp    
+- python3.8
 - pipenv
 
 ## Installing pip3
 `sudo apt install python3-pip`
+
+## Installing aiohttp
 
 ## Installing python3.8 (required for Ubuntu prior to 20.04)
 Get your system up to date and install some prerequisites 
