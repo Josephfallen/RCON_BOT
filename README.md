@@ -13,11 +13,6 @@ Discord bot to inferface with Pavlov VR RCON
 - python3.8
 - pipenv
 
-## Installing pip3
-`sudo apt install python3-pip`
-
-## Installing aiohttp
-` pip install aiohttp `
 
 ## Installing python3.8 (required for Ubuntu prior to 20.04)
 Get your system up to date and install some prerequisites 
@@ -26,6 +21,12 @@ sudo apt update
 sudo apt upgrade
 sudo apt install software-properties-common
 ```
+
+## Installing pip3
+`sudo apt install python3-pip`
+
+## Installing aiohttp
+` pip install aiohttp `
 
 Install PPA for Python3.8 by adding the deadsnakes PPA to your system’s sources list:
 
