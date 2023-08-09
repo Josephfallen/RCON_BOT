@@ -14,8 +14,6 @@ Discord bot to inferface with Pavlov VR RCON
 - python3.8
 - pipenv
 
-
-## Installing python3.8 (required for Ubuntu prior to 20.04)
 Get your system up to date and install some prerequisites 
 ```
 sudo apt update
